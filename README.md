@@ -1,2 +1,1 @@
-# accounting_dfy_stretch
-Accounting bead for ibeads
+# Deify Infocomm Solutions Custom Integration for Accounting for Debian Stretch
